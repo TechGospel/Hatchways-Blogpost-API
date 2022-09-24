@@ -3,8 +3,8 @@
 ## A Node and express API that fetches post by tags from a remote API
 
 Author: Faith Adeoti
-Email: stevenlarex@gmail.com
-github: github.com/Techso
+Email: faithadeoti21@gmail.com
+github: github.com/TechGospel
 
 ## Implementation description
 
@@ -31,4 +31,4 @@ The project also implements caching using redis to set the response for a reques
 -   run "npm start"
 
 
-[git-repo-url]: https://github.com/Techso
+[git-repo-url]: https://github.com/TechGospel
